@@ -21,16 +21,15 @@ for example I show you :
                        
                        Here, decimal number 100. what is the value in base 3 number system?
 .
-                       ![Base-3](https://user-images.githubusercontent.com/38063040/123504268-ee294100-d679-11eb-86b4-c9f9ccb850c4.png)
                        ![image](https://user-images.githubusercontent.com/38063040/123504517-a5728780-d67b-11eb-9f92-7cafc032e0bc.png)
  
    Here, i show you. the process of how to get from base 10 number to base -3 .                  
-   *1. destination base 
-   *2. source value of 10 base number
-   *3. reminder as need for get a digit of destination  base number system
-   *6. Quotient as need for next iteration to get a digit of destination base number system.
-   *4. this arrow show the order of reminder to make 3 base number
-   *5. this is the actual value of base-3 number of base-10 base number 100
+         *1. destination base 
+         *2. source value of 10 base number
+         *3. reminder as need for get a digit of destination  base number system
+         *6. Quotient as need for next iteration to get a digit of destination base number system.
+         *4. this arrow show the order of reminder to make 3 base number
+         *5. this is the actual value of base-3 number of base-10 base number 100
    
    
 
