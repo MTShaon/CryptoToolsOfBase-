@@ -17,13 +17,13 @@ If want to create new number system. Then you can it very easily.
 for example I show you :
 
               base 3 : if I want create 3 base number. then need 3 unique representer. for 3 base number that will be 0, 1, 2
-                       And you can any number in the world can represent in 3 base number system. here is a question, How?
+                       And you can any number in the world can represent in 3 base number system. here is a question, How? And the answer is given below...
                        
   Here, decimal number 100. what is the value in base 3 number system?
   
   ![image](https://user-images.githubusercontent.com/38063040/123505434-e325df00-d680-11eb-9a83-f8f43bae75e0.png)
  
-  Here, i show you. the process of how to get from base 10 number to base -3 .    
+  Here, i show you, the process of how to get from base 10 number to base -3  in the figure.    
             
             1. destination base 
             2. source value of 10 base number
@@ -32,7 +32,6 @@ for example I show you :
             5. this arrow show the order of reminder to make 3 base number
             6. this is the actual value of base-3 number of base-10 number 100
  
-
   
    
    
