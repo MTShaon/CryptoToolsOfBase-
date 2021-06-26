@@ -21,9 +21,8 @@ for example I show you :
                        
                        Here, decimal number 100. what is the value in base 3 number system?
                        
-                              ![base-3](https://user-images.githubusercontent.com/38063040/123503501-2a0dd780-d675-11eb-8294-c5d0322fef73.png)
 
-![base-3](https://user-images.githubusercontent.com/38063040/123503796-051a6400-d677-11eb-8219-abb177893ae1.png)
+   ![base-3](https://user-images.githubusercontent.com/38063040/123503796-051a6400-d677-11eb-8219-abb177893ae1.png)
 
                                 
                        
