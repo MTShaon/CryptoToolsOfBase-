@@ -21,7 +21,7 @@ for example I show you :
                        
                        Here, decimal number 100. what is the value in base 3 number system?
 .
-                       ![image](https://user-images.githubusercontent.com/38063040/123504517-a5728780-d67b-11eb-9f92-7cafc032e0bc.png)
+                       ![image](https://user-images.githubusercontent.com/38063040/123505434-e325df00-d680-11eb-9a83-f8f43bae75e0.png)
  
  Here, i show you. the process of how to get from base 10 number to base -3 .    
   1. destination base 
