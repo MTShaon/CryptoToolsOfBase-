@@ -22,6 +22,9 @@ for example I show you :
                        Here, decimal number 100. what is the value in base 3 number system?
 .
                         ![image](https://user-images.githubusercontent.com/38063040/123503996-4e1ee800-d678-11eb-881e-ceb4e97c45fb.png).
+                       ![image](https://user-images.githubusercontent.com/38063040/123504268-ee294100-d679-11eb-86b4-c9f9ccb850c4.png)
+ 
+                       
 
                                 
                        
