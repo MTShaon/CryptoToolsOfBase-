@@ -19,10 +19,8 @@ for example I show you :
               base 3 : if I want create 3 base number. then need 3 unique representer. for 3 base number that will be 0, 1, 2
                        And you can any number in the world can represent in 3 base number system. here is a question How?
                        
-                       Here, decimal number 100. what is the value in base 3 number system?
-                       
-
-   ![base-3](https://user-images.githubusercontent.com/38063040/123503796-051a6400-d677-11eb-8219-abb177893ae1.png)
+                       Here, decimal number 100. what is the value in base 3 number system?.
+.
                         ![image](https://user-images.githubusercontent.com/38063040/123503996-4e1ee800-d678-11eb-881e-ceb4e97c45fb.png)
 
                                 
