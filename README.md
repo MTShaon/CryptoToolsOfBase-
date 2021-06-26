@@ -30,6 +30,7 @@ for example I show you :
           6. Quotient as need for next iteration to get a digit of destination base number system.
           4. this arrow show the order of reminder to make 3 base number
           5. this is the actual value of base-3 number of base-10 base number 100
+          :----:
    
    
 
