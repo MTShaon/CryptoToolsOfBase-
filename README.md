@@ -17,11 +17,12 @@ If want to create new number system. Then you can it very easily.
 for example I show you :
 
               base 3 : if I want create 3 base number. then need 3 unique representer. for 3 base number that will be 0, 1, 2
-                       And you can any number in the world can represent in 3 base number system. here is a question #HOW?
+                       And you can any number in the world can represent in 3 base number system. here is a question How?
                        
                        Here, decimal number 100. what is the value in base 3 number system?
                        
-                                ![image](https://user-images.githubusercontent.com/38063040/123503466-fdf25680-d674-11eb-8740-b5e746ed6041.png)
+                              [image](https://user-images.githubusercontent.com/38063040/123503501-2a0dd780-d675-11eb-8294-c5d0322fef73.png)
+
 
                                 
                        
