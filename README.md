@@ -26,10 +26,11 @@ for example I show you :
  
   Here, i show you, the process of how to get from base 10 number to base -3  in the figure.    
             
-            1. destination base 
+            1. destination base
             2. source value of 10 base number
             3. reminder as need for get a digit of destination  base number system
             4. Quotient as need for next iteration to get a digit of destination base number system.
             5. this arrow show the order of reminder to make 3 base number
             6. this is the actual value of base-3 number of base-10 number 100
+            
                                                    
